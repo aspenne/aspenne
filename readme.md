@@ -8,7 +8,7 @@
 <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.01" target="_blank" rel="noreferrer"> - Yams : game in C</h4></a>
 <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.02" target="_blank" rel="noreferrer"> - Sort project : sorting algorithms to compare datas</h4></a>
 <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.03" target="_blank" rel="noreferrer"> - Deface : Docker project </h4></a>
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - Matski : Database  ( avaialable soon ) </h4> 
+<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - Matski : Database  ( available soon ) </h4> 
 <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.05" target="_blank" rel="noreferrer"> - Koh Frais : web-site</h4></a>
 
 <h4> &nbsp&nbsp&nbsp&nbsp - BUT year 2 project : </h4>
@@ -106,12 +106,17 @@
 
 <br>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspenne&show_icons=true&locale=en&layout=compact" alt="aspenne" /></p>
+
+<br>
+
+<h2 align="left"> Statistics </h2>
+
 <div style="display : flex; 
             justify-content : center; 
             align-items : center;
-            gap : 10px">
+            gap : 10px;">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspenne&show_icons=true&locale=en&layout=compact" alt="aspenne" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=aspenne&show_icons=true&locale=en" alt="aspenne" /></p>
 
