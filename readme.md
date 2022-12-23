@@ -1,5 +1,7 @@
 <h1 align="center"> Axel Michelo, 19 years old</h1>
 
+<h2 align="center">Developer and student from the Lannion Institute of Technology </h2>
+
 <h4> - Today i'm learning by myself, typescript and react ! </h4>
 <h4> - If you want to contact me, you can do it by email : <a href="mailto:axel.mch@outlook.fr"> axel.mch@outlook.fr</a></h4>
 
@@ -15,9 +17,6 @@
 
 <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/Regalouzz" target="_blank" rel="noreferrer"> - Regalouzz :e-commerce</h4></a>
 
-
-
-<h2 align="center">Developer and student from the Lannion Institute of Technology </h2>
 <section>
 <h2 align="left"> Programming Languages </h2>
 <article style="display : flex; 
