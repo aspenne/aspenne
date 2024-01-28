@@ -1,145 +1,1 @@
-<h1 align="center"> Axel Michelo, 19 years old</h1>
-
-<h2 align="center">Developer and student from the Lannion Institute of Technology </h2>
-
-<h4> - Today i'm learning by myself, typescript and react ! </h4>
-<h4> - If you want to contact me, you can do it by email : <a href="mailto:axel.mch@outlook.fr"> axel.mch@outlook.fr</a></h4>
-
-<h4> - here a list of my projects : </h4>
-<h4> &nbsp&nbsp&nbsp&nbsp - BUT year 1 project : </h4>
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.01" target="_blank" rel="noreferrer"> - Yams : game in C</h4></a>
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.02" target="_blank" rel="noreferrer"> - Sort project : sorting algorithms to compare datas</h4></a>
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.03" target="_blank" rel="noreferrer"> - Deface : Docker project </h4></a>
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - Matski : Database  ( available soon ) </h4> 
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/IUT-SAE1.05" target="_blank" rel="noreferrer"> - Koh Frais : web-site</h4></a>
-
-<h4> &nbsp&nbsp&nbsp&nbsp - BUT year 2 project : </h4>
-
-<h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/aspenne/Regalouzz" target="_blank" rel="noreferrer"> - Regalouzz :e-commerce</h4></a>
-
-<section>
-<h2 align="left"> Programming Languages </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 350px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-    
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> </a>
-
-</article>
-<h2 align="left" > Frontend Development </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 200px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-
-</article>
-<h2 align="left" > Database </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 150px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-
-</article>
-<h2 align="left" > Frameworks </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 100px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="50" height="50"/> </a>
-
-</article>
-<h2 align="left"> DevOps </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 150px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-
-</article>
-<h2 align="left"> Other </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 250px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.windows.com/" target="_blank" rel="noreferrer"> <img src="https://www.1min30.com/wp-content/uploads/2017/04/Symbole-Windows.png" alt="linux" width="50" height="50"/> </a>
-
-</section>
-
-<br>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspenne&show_icons=true&locale=en&layout=compact" alt="aspenne" /></p>
-
-<br>
-
-<h2 align="left"> Statistics </h2>
-
-<div style="display : flex; 
-            justify-content : center; 
-            align-items : center;
-            gap : 10px;">
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=aspenne&show_icons=true&locale=en" alt="aspenne" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aspenne&" alt="aspenne" /></p>
-</div>
-
-<h2 align="left"> Contact </h2>
-<article style="display : flex; 
-                justify-content : center; 
-                align-items : center;
-                padding-top : 15px;
-                width : 200px;
-                border : 1px solid #fff;
-                border-radius : 8px;">
-
-<a href="https://www.linkedin.com/in/michelo-axel/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="50" height="50"/> </a>
-
-<div style = "margin-left : 10px;">
-<a style = "margin-left : 15px;" href="https://discord.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="twitter" width="50" height="50"/></a>
-<p>Aspenne#7087</p>
-</div>
-
-
-
-</article>
-
-
+<h1 align="center" style="font-family: 'Andale Mono',serif"> Axel Michelo 20 years old</h1><h4 style="font-family: 'Andale Mono',serif">  - 💻 Full stack Developer at the Lannion Institute of Technology in apprenticeship <br>  - 🏀 basketball player, running and weight training <br>  - 🎮 Like playing vidéo games and chilling on twitch</h4>[comment]: <> (Contacts)<div style="display: flex; flex-direction: column; align-items: center">  <h3> Contacts </h3>  <div style="display: flex; gap: 10px;">    <div>    <a href="https://discord.com" style="display: flex; flex-direction: column; width: 50px">      <img src="https://skillicons.dev/icons?i=discord" alt="discord">      aspenne    </a>    </div>    <a href="https://www.linkedin.com/in/michelo-axel/">      <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>    </a>    <a href="mailto:axel.mch@outlook.fr">      <img src="https://skillicons.dev/icons?i=gmail"  alt="gmail"/>    </a>  </div></div>---  [comment]: <> (Front-end Skills)    <div align="start">    <h2> Front-end</h2>    <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">      <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>    </a>    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>    </a>    <a href="https://sass-lang.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=sass" alt="Sass"/>    </a>    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>    </a>    <a href="https://www.typescriptlang.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>    </a>    <a href="https://vuejs.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"/>    </a>    <a href="https://reactjs.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=react" alt="React"/>    </a>    <a href="https://tailwindcss.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>    </a>    <a href="https://nextjs.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=next" alt="Next.js"/>    </a>    <a href="https://vitejs.dev/" target="_blank">      <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>    </a>  </div>    [comment]: <> (Back-end Skills)    <div align="start">    <h2> Back-end</h2>    <a href="https://www.php.net/" target="_blank">      <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>    </a>    <a href="https://www.java.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=java" alt="Java"/>    </a>    <a href="https://laravel.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>    </a>  </div>  [comment]: <> (Databases Skills)    <div align="start">    <h2> Databases</h2>      <a href="https://dev.mysql.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>    </a>    <a href="https://www.postgresql.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>    </a>    <a href="https://www.elastic.co/" target="_blank">      <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch"/>    </a>    <a href="https://www.mongodb.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>    </a>    <a href="https://redis.io/" target="_blank">      <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>    </a>    <a href="https://www.prisma.io/" target="_blank">      <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma"/>    </a>    <a href="https://cassandra.apache.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra"/>    </a>  </div>      [comment]: <> (Software)    <div align="start">    <h2> Softwares </h2>      <a href="https://github.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>    </a>    <a href="https://about.gitlab.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/>    </a>    <a href="https://www.figma.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>    </a>    <a href="https://www.eclipse.org/" target="_blank">      <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/>    </a>    <a href="https://www.jetbrains.com/idea/" target="_blank">      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/>    </a>    <a href="https://code.visualstudio.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>    </a>    <a href="https://www.postman.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>    </a>    <a href="https://www.docker.com/" target="_blank">      <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>    </a>  </div>---<div style="display: flex; gap: 35px">  <div>    <h2> Personal Projects </h2>      <a href="https://github.com/aspenne/PokeGuess">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aspenne&repo=PokeGuess&theme=react&show_owner=true" alt="Carte ReadMe - PokeGuess"/>      </a>      <a href="https://github.com/HeineZo/la-palme-verte">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeineZo&repo=la-palme-verte&theme=react&show_owner=true" alt="Carte ReadMe - La plame verte"/>      </a>      <a href="https://github.com/aspenne/Portfolio">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aspenne&repo=Portfolio&theme=react&show_owner=true" alt="Carte ReadMe - Portfolio"/>      </a>  </div>  <div>    <h2> School Projects </h2>    <a href="https://github.com/eliottguls/dblpViz">      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliottguls&repo=dblpViz&theme=react&show_owner=true" alt="Carte ReadMe - dblpViz"/>    </a>    <a href="https://github.com/aspenne/Regalouzz">      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aspenne&repo=Regalouzz&theme=react&show_owner=true" alt="Carte ReadMe - Regalouzz"/>    </a>    <a href="https://github.com/aspenne/Catalogueur">      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aspenne&repo=Catalogueur&theme=react&show_owner=true" alt="Carte ReadMe - Catalogueur"/>    </a>  </div></div>---<h2> Statistics</h2><div style="display: flex; gap: 35px">  <a href="https://github.com/anuraghazra/github-readme-stats">    <img src="https://github-readme-stats.vercel.app/api?username=aspenne&show_icons=true&theme=react" alt="Axel's GitHub stats"/>  </a>   <a href="https://github.com/anuraghazra/github-readme-stats">    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspenne&theme=react" alt="Axel's GitHub stats streak"/>  </a></div>
