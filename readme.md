@@ -1,8 +1,8 @@
-<h1 align="center" style="font-family: 'Andale Mono',serif"> Axel Michelo 20 years old</h1>
+<h1 align="center" style="font-family: 'Andale Mono',serif"> Axel Michelo 21 years old</h1>
 
 <h4 style="font-family: 'Andale Mono',serif">
-  - 💻 Full stack Developer at the Lannion Institute of Technology in apprenticeship <br>
-  - 🏀 basketball player, running and weight training <br>
+  - 💻 Full stack Developer at MyDigitalSchool in apprenticeship <br>
+  - 🏀 basketball player, running, cycling and weight training <br>
   - 🎮 Like playing vidéo games and chilling on twitch
 </h4>
 
